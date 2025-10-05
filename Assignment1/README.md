@@ -7,7 +7,7 @@
 
 This folder contains solutions for **Python Assignment 1** from  
 **Marvellous Infosystems – Python Automation & Machine Learning** course conducted by **Piyush Khairnar Sir**.  
-_“आम्ही Technical संस्कार करतो !!!”_
+
 
 The main goal of this assignment is to build **strong Python fundamentals** through simple, concept-focused programs.  
 These problems are designed to improve:
@@ -105,6 +105,8 @@ Write a function that accepts a number and returns **True** if divisible by 5, o
 **Examples:**
 Input: 8 → Output: False
 Input: 25 → Output: True
+
+
 ---
 
 ### 8️⃣ Program 8 – Print Asterisks
