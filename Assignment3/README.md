@@ -117,7 +117,15 @@ Number of elements: 11
 Input Elements: 13 5 45 7 4 56 10 34 2 5 8
 
 Output: 54 (13 + 5 + 7 + 2 + 5)
+---
 
+## 🎯 Learning Outcomes
+- Gained practical experience with Python lists and data manipulation  
+- Implemented modular programming and function-based logic  
+- Learned to perform searching, summation, and filtering operations on data  
+- Improved understanding of iterative control and modular code reuse  
+
+---
 
 ## ⚙️ How to Run Programs
 
@@ -142,3 +150,6 @@ Enter number of elements: 6
 Input elements: 13 5 45 7 4 56
 Addition of all elements is: 130
 
+---
+## 👨‍💻 Author
+**Name:** Yash Andhale  
