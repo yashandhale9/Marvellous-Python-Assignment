@@ -114,6 +114,14 @@ List after map = [4, 22, 34, 46, 62]
 
 Output of reduce = 62
 
+---
+
+## 🎯 Learning Outcomes
+- Understood the concept of anonymous (lambda) functions in Python  
+- Applied functional programming using filter(), map(), and reduce()  
+- Learned how to transform and process data efficiently using built-in functions  
+- Strengthened logic building with compact and expressive Python code  
+
 
 ---
 
@@ -139,4 +147,7 @@ Enter list of numbers: 4 34 36 76 68 24 89 23 86 90 45 70
 List after filter: [76, 89, 86, 90, 70]
 List after map: [86, 99, 96, 100, 80]
 Result of reduce: 6538752000
-
+```
+---
+## 👨‍💻 Author
+**Name:** Yash Andhale  
