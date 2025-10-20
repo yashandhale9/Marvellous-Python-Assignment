@@ -86,6 +86,13 @@ Accept a number from the user and return the **sum of its digits**.
 
 ---
 
+## 🎯 Learning Outcomes
+- Learned to create and use user-defined modules in Python  
+- Gained experience with nested loops and pattern printing  
+- Enhanced logical thinking through number and pattern-based problems  
+- Improved function reusability and modular program design  
+---
+
 ## ⚙️ How to Run Programs
 
 ```bash
@@ -102,4 +109,8 @@ Sample Execution
 # Example – Assignment2_3.py
 Enter a number: 5
 Factorial is: 120
+```
+
+## 👨‍💻 Author
+**Name:** Yash Andhale  
 
