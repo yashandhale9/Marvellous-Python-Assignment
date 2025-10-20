@@ -135,6 +135,15 @@ Output: 10
 
 ---
 
+## 🎯 Learning Outcomes
+- Strengthened understanding of Python basics and syntax  
+- Practiced writing user-defined functions  
+- Improved logic-building through simple conditional and loop-based problems  
+- Learned how to handle user input and display formatted output  
+
+
+---
+
 ## ⚙️ How to Run Programs
 
 ```bash
@@ -146,3 +155,7 @@ python Assignment1_1.py
 python Assignment1_2.py
 python Assignment1_3.py
 ...
+```
+---
+## 👨‍💻 Author
+**Name:** Yash Andhale 
